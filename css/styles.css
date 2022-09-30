@@ -1,0 +1,13 @@
+ /***********TAG SELECTORS********/
+
+body{background-color: rgb(97, 67, 45);}
+h1{color: rgb(0, 0, 0);}
+h2{font-style: italic;}
+h3{color: rgb(214, 75, 75);}
+img{height: 150px;width: 150px;}
+h4{font-style: italic;}
+
+ /***********CLASS SELECTORS******/
+
+.unity{height: 70px;}
+.subheading{width: 40%;border-spacing: 0cm;}
